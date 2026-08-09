@@ -1,2 +1,3 @@
-# attention-resnet-research
-layer-wise attention placement study
+# GCNII Hybrid Framework
+GNN over-smoothing mitigation
+Graph Neural Networks
